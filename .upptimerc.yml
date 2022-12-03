@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WPToots Mastodon Instance
   introTitle: "**wptoots.social** up or down?"
-  introMessage: This is the uptime status page for the [wptoots.social](https://wptoots.social) Mastodon instance. Follow open issues etc. in the (Github Repo)[https://github.com/danielauener/status.wptoots.social].
+  introMessage: This is the uptime status page for the [wptoots.social](https://wptoots.social) Mastodon instance. Follow open issues etc. in the [Github Repo](https://github.com/danielauener/status.wptoots.social).
   navbar:
     - title: Status
       href: /
