@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wptoots.social.ico",
     "slug": "wptoots-social",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "99.10%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 870,
-    "timeDay": 994,
-    "timeWeek": 839,
-    "timeMonth": 1028,
-    "timeYear": 870,
+    "uptimeYear": "99.99%",
+    "time": 867,
+    "timeDay": 635,
+    "timeWeek": 822,
+    "timeMonth": 1019,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2023-02-01": 13
     }
