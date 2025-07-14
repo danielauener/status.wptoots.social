@@ -4,17 +4,19 @@
     "url": "https://wptoots.social",
     "icon": "https://icons.duckduckgo.com/ip3/wptoots.social.ico",
     "slug": "wptoots-social",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 722,
-    "timeWeek": 719,
-    "timeMonth": 719,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "timeDay": 532,
+    "timeWeek": 672,
+    "timeMonth": 707,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2025-07-14": 7
+    }
   }
 ]
