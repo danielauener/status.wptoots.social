@@ -4,13 +4,13 @@
     "url": "https://wptoots.social",
     "icon": "https://icons.duckduckgo.com/ip3/wptoots.social.ico",
     "slug": "wptoots-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.99%",
-    "time": 768,
+    "time": 767,
     "timeDay": 499,
     "timeWeek": 647,
     "timeMonth": 659,
@@ -30,7 +30,8 @@
       "2026-01-05": 872,
       "2026-01-06": 1319,
       "2026-01-07": 518,
-      "2026-02-09": 54
+      "2026-02-09": 54,
+      "2026-06-02": 0
     }
   }
 ]
